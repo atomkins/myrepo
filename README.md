@@ -1,4 +1,4 @@
 # myrepo
-My first repository on GitHub.
+This is my first repository on GitHub. This repository is being used to complete some lecture assignments.
 
-My name is Aaron Tomkins. I was born in Seoul, South Korea.
+My name is Aaron Tomkins, and I'm in SMU's Master of Data Science program.
